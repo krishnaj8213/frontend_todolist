@@ -26,10 +26,10 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
 
 ## Usage:
 
--Enter a task in the input box.
--Click the 'Add' button to add the task to the list.
--Click on a task to mark it as complete or incomplete.
--Click the '×' icon next to a task to remove it from the list.
+1. Enter a task in the input box.
+2. Click the 'Add' button to add the task to the list.
+3. Click on a task to mark it as complete or incomplete.
+4. Click the '×' icon next to a task to remove it from the list.
 
 
 ## File Structure
