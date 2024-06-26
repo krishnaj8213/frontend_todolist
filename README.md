@@ -32,15 +32,4 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
 4. Click the '×' icon next to a task to remove it from the list.
 
 
-## File Structure
-todo-list/
-│
-├── images/
-│   ├── icon.png
-│   ├── unchecked.png
-│   └── checked.png
-├── index.html
-├── todo.css
-└── todo.js
-
 
