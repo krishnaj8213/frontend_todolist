@@ -20,7 +20,7 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/krishnaj8213/todo-list.git
    cd todo-list
 2. Open index.html in your preferred web browser.
 
