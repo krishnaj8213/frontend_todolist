@@ -24,7 +24,7 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
    cd todo-list
 2. Open index.html in your preferred web browser.
 
-##Usage:
+## Usage:
 
 -Enter a task in the input box.
 -Click the 'Add' button to add the task to the list.
@@ -32,7 +32,7 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
 -Click the '×' icon next to a task to remove it from the list.
 
 
-##File Structure
+## File Structure
 todo-list/
 │
 ├── images/
